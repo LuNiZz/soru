@@ -1,11 +1,15 @@
 ## Sormak için sorma, sadece sor
 Arada sırada takıldığım çevrim içi sohbet odalarına birisi katılıyor ve diyor ki
 
-`Hedehödö123:Java'da uzman olan var mı?`        
+`
+Hedehödö123:Java'da uzman olan var mı?
+`        
 
 Birkaç nedenden dolayı, bu kötü bir soru sorma şeklidir. Kişinin aslında burada sorduğu şey,
 
-`Hedehödö123:Ne olursa olsun sorunumu araştırmaya istekli olan Java uzmanları var mı? Aslında Java ile ilgili olmasa da hatta Java hakkında hiçbir şey bilmeyen biri sorumu cevaplayabilecek olsa bile. `
+`
+Hedehödö123:Ne olursa olsun sorunumu araştırmaya istekli olan Java uzmanları var mı? Aslında Java ile ilgili olmasa da hatta Java hakkında hiçbir şey bilmeyen biri sorumu cevaplayabilecek olsa bile. 
+`
 
 Bilgili insanların yanıtlamamaları için birçok nedeni vardır. Sorarak, aslında sorduğunu düşündüğünden daha fazlasını onlardan talep ediyorsun.
 
